@@ -51,7 +51,7 @@
 - [Operating Systems](https://github.com/GiridharaSPK/Operating-Systems)
 - [Python Programming](https://github.com/GiridharaSPK/PythonProgramming)
   
-
+![](https://komarev.com/ghpvc/?username=GiridharaSPK&style=plastic&base=100)
 <!---
 GiridharaSPK/GiridharaSPK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
