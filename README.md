@@ -10,7 +10,7 @@
 - [MVVM-2 way binding example](https://github.com/GiridharaSPK/login-mvvm-2waydatabinding/)
 - [Currency Convertor](https://github.com/GiridharaSPK/currency-convertor-mvvm)
 - [Master App Dev - Rajesh Hadiya Course](https://github.com/GiridharaSPK/MAD-Coursework-by-Rajesh-Hadiya) {Understand latest trends in Native app development}
-- [Movies Flix](https://github.com/GiridharaSPK/moviesFlix)
+- [Movies Flix](https://github.com/GiridharaSPK/moviesFlix) {Server Driven UI (List) - heterogenous recyclerview}
 - [Understanding coroutines](https://github.com/GiridharaSPK/coroutines-practice)
 - [Understanding MVVM design pattern](https://github.com/GiridharaSPK/MVVMRoomAndroid)
 - [Weather App](https://github.com/GiridharaSPK/WeatherApp)
@@ -51,7 +51,7 @@
 - [Operating Systems](https://github.com/GiridharaSPK/Operating-Systems)
 - [Python Programming](https://github.com/GiridharaSPK/PythonProgramming)
   
-![](https://komarev.com/ghpvc/?username=GiridharaSPK&style=plastic&base=100)
+![](https://komarev.com/ghpvc/?username=GiridharaSPK&style=plastic&base=0)
 <!---
 GiridharaSPK/GiridharaSPK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
