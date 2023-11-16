@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiridharaSPK
 - 👀 I’m interested in learning new technologies and solving problems
-- 🌱 I’m currently learning Android App Development, Python and Javascript
-- 💞️ I’m looking to collaborate on any interesting applications which could help me become a better developer and use my engineering skills
+- 🌱 I’m currently learning Kotlin, Java, Android Development, Python and Javascript
+- 💞️ I’m looking to work on any interesting applications which could help me become a better developer and challenge my engineering skills
 - 📫 Can reach me on [Linkedin](https://www.linkedin.com/in/giridharaspk/) or email
 
 # My Projects
