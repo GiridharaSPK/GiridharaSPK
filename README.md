@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GiridharaSPK
 - 👀 I’m interested in learning new technologies and solving problems
-- 🌱 I’m currently learning Kotlin, Java, Android Development, Python and Javascript
-- 💞️ I’m looking to work on any interesting applications which could help me become a better developer and challenge my engineering skills
+- 🌱 I’m currently learning C#, .NET, Kotlin, Java, SpringBoot, Android, React, Javascript, Angular and Python
+- 💞️ I’m looking to work on any interesting applications that could help me become a better developer and challenge my engineering skills
 - 📫 Can reach me on [Linkedin](https://www.linkedin.com/in/giridharaspk/) or email
 
 # My Projects
@@ -36,6 +36,7 @@
 - [Javascript](https://github.com/GiridharaSPK/js-hitesh)
 - [Login App in Flask](https://github.com/GiridharaSPK/flask-login) {To deploy in cloud}
 - [Creative Coding - JavaScript](https://github.com/GiridharaSPK/creative-coding-js) {By domestic - create beautiful animations and patterns using javascript and logic}
+- [CRUD App - DotNet Core + Angular](https://github.com/GiridharaSPK/CrudApp)
 
 ## Coursework Projects:
 - Data Analysis - Kroger Customer Demographic
