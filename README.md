@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GiridharaSPK
 - 👀 I’m interested in learning new technologies and solving problems
-- 🌱 I’m currently learning C#, .NET, Kotlin, Java, SpringBoot, Android, React, Javascript, Angular and Python
+- 🌱 Experienced in Java, Kotlin, SpringBoot, C#, .NET, Android, React, Javascript, Angular and Python
 - 💞️ I’m looking to work on any interesting applications that could help me become a better developer and challenge my engineering skills
 - 📫 Can reach me on [Linkedin](https://www.linkedin.com/in/giridharaspk/) or email
 
@@ -52,6 +52,10 @@
 - [Operating Systems](https://github.com/GiridharaSPK/Operating-Systems)
 - [Python Programming](https://github.com/GiridharaSPK/PythonProgramming)
   
+## Data Structures Practise
+- [Leetcode Practise - Adhoc](https://github.com/GiridharaSPK/leetcode-practise)
+- [DSA FAANG Questions - (unlisted on leetcode)](https://github.com/GiridharaSPK/faang-prep)
+
 ![](https://komarev.com/ghpvc/?username=GiridharaSPK&style=plastic&base=0)
 <!---
 GiridharaSPK/GiridharaSPK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
